@@ -1,7 +1,500 @@
-Sample Logs
-
-[INFO] 2025-07-15 10:12:43 User login successful
-[WARNING] 2025-07-15 10:20:55 User failed login attempt
-[ERROR] 2025-07-15 10:21:05 User account locked after 5 failures
-[INFO] 2025-07-15 10:45:22 Password changed
-[CRITICAL] 2025-07-15 11:01:11 Unauthorized access attempt
+[WARNING] 2025-07-15 09:45:54 Multiple failed login attempts
+[INFO] 2025-07-15 21:14:14 User login successful
+[INFO] 2025-07-15 17:54:33 Email sent successfully
+[WARNING] 2025-07-15 20:32:06 Suspicious file upload detected
+[INFO] 2025-07-15 05:38:25 User login successful
+[CRITICAL] 2025-07-15 16:31:12 Unauthorized access attempt
+[CRITICAL] 2025-07-15 18:01:11 Malware activity detected
+[WARNING] 2025-07-15 19:09:26 User failed login attempt
+[INFO] 2025-07-15 05:44:46 File accessed successfully
+[ERROR] 2025-07-15 04:32:08 Service unavailable
+[WARNING] 2025-07-15 18:24:59 Suspicious file upload detected
+[CRITICAL] 2025-07-15 03:35:03 Unauthorized access attempt
+[CRITICAL] 2025-07-15 06:00:48 Unauthorized access attempt
+[WARNING] 2025-07-15 11:09:41 Suspicious file upload detected
+[WARNING] 2025-07-15 22:56:43 Suspicious file upload detected
+[CRITICAL] 2025-07-15 03:28:34 Unauthorized access attempt
+[INFO] 2025-07-15 09:20:13 Password changed
+[INFO] 2025-07-15 20:03:26 Email sent successfully
+[ERROR] 2025-07-15 02:35:37 Database connection failed
+[WARNING] 2025-07-15 07:20:42 Multiple failed login attempts
+[CRITICAL] 2025-07-15 05:21:54 Malware activity detected
+[ERROR] 2025-07-15 17:38:50 Database connection failed
+[INFO] 2025-07-15 12:21:31 Email sent successfully
+[CRITICAL] 2025-07-15 13:54:32 Unauthorized access attempt
+[WARNING] 2025-07-15 05:14:32 Multiple failed login attempts
+[CRITICAL] 2025-07-15 01:17:15 Unauthorized access attempt
+[ERROR] 2025-07-15 18:33:26 Service unavailable
+[INFO] 2025-07-15 12:33:59 User login successful
+[CRITICAL] 2025-07-15 10:24:12 Critical system failure
+[ERROR] 2025-07-15 18:34:49 Database connection failed
+[CRITICAL] 2025-07-15 09:51:08 Unauthorized access attempt
+[INFO] 2025-07-15 07:20:37 User logged out
+[CRITICAL] 2025-07-15 06:52:54 Unauthorized access attempt
+[INFO] 2025-07-15 06:07:14 Email sent successfully
+[CRITICAL] 2025-07-15 13:07:45 Unauthorized access attempt
+[ERROR] 2025-07-15 08:22:41 User account locked after 5 failures
+[WARNING] 2025-07-15 15:20:05 Suspicious file upload detected
+[ERROR] 2025-07-15 16:03:27 Service unavailable
+[INFO] 2025-07-15 21:33:16 Password changed
+[WARNING] 2025-07-15 01:08:14 Access denied to restricted folder
+[CRITICAL] 2025-07-15 03:32:04 Potential data breach detected
+[WARNING] 2025-07-15 12:50:24 Multiple failed login attempts
+[WARNING] 2025-07-15 12:45:43 Suspicious file upload detected
+[CRITICAL] 2025-07-15 09:01:11 Malware activity detected
+[INFO] 2025-07-15 00:34:50 User logged out
+[INFO] 2025-07-15 17:36:04 Email sent successfully
+[ERROR] 2025-07-15 12:57:17 User account locked after 5 failures
+[CRITICAL] 2025-07-15 05:11:26 Critical system failure
+[ERROR] 2025-07-15 15:37:47 Database connection failed
+[ERROR] 2025-07-15 04:04:21 Database connection failed
+[WARNING] 2025-07-15 19:13:32 Multiple failed login attempts
+[ERROR] 2025-07-15 01:24:42 Service unavailable
+[INFO] 2025-07-15 16:33:38 Password changed
+[ERROR] 2025-07-15 18:46:59 Service unavailable
+[WARNING] 2025-07-15 08:04:45 Access denied to restricted folder
+[ERROR] 2025-07-15 05:21:48 Service unavailable
+[ERROR] 2025-07-15 01:02:29 Application crashed unexpectedly
+[CRITICAL] 2025-07-15 05:52:41 Potential data breach detected
+[WARNING] 2025-07-15 00:33:19 Suspicious file upload detected
+[WARNING] 2025-07-15 17:42:18 Multiple failed login attempts
+[ERROR] 2025-07-15 19:25:03 Database connection failed
+[CRITICAL] 2025-07-15 17:39:48 Critical system failure
+[CRITICAL] 2025-07-15 22:19:32 Malware activity detected
+[ERROR] 2025-07-15 03:42:44 Service unavailable
+[WARNING] 2025-07-15 03:24:07 Multiple failed login attempts
+[CRITICAL] 2025-07-15 15:58:13 Malware activity detected
+[ERROR] 2025-07-15 01:03:43 Application crashed unexpectedly
+[ERROR] 2025-07-15 01:18:40 Application crashed unexpectedly
+[ERROR] 2025-07-15 03:39:08 Database connection failed
+[CRITICAL] 2025-07-15 10:04:26 Malware activity detected
+[INFO] 2025-07-15 09:26:41 Password changed
+[CRITICAL] 2025-07-15 00:06:17 Potential data breach detected
+[ERROR] 2025-07-15 14:19:54 Database connection failed
+[WARNING] 2025-07-15 14:25:32 Suspicious file upload detected
+[INFO] 2025-07-15 05:11:52 File accessed successfully
+[INFO] 2025-07-15 09:09:28 User login successful
+[CRITICAL] 2025-07-15 13:10:20 Unauthorized access attempt
+[ERROR] 2025-07-15 15:47:18 User account locked after 5 failures
+[ERROR] 2025-07-15 19:32:25 Database connection failed
+[INFO] 2025-07-15 03:10:57 Password changed
+[WARNING] 2025-07-15 08:51:48 Suspicious file upload detected
+[ERROR] 2025-07-15 13:39:06 User account locked after 5 failures
+[INFO] 2025-07-15 06:32:53 User logged out
+[CRITICAL] 2025-07-15 15:57:21 Potential data breach detected
+[INFO] 2025-07-15 13:08:40 User login successful
+[INFO] 2025-07-15 22:46:11 User login successful
+[CRITICAL] 2025-07-15 05:56:05 Malware activity detected
+[CRITICAL] 2025-07-15 09:41:28 Malware activity detected
+[WARNING] 2025-07-15 08:58:26 Multiple failed login attempts
+[ERROR] 2025-07-15 22:35:19 Application crashed unexpectedly
+[WARNING] 2025-07-15 11:55:02 Suspicious file upload detected
+[WARNING] 2025-07-15 07:53:04 User failed login attempt
+[ERROR] 2025-07-15 08:51:43 Application crashed unexpectedly
+[ERROR] 2025-07-15 07:00:25 User account locked after 5 failures
+[INFO] 2025-07-15 08:21:44 Email sent successfully
+[WARNING] 2025-07-15 23:22:30 Multiple failed login attempts
+[CRITICAL] 2025-07-15 15:00:11 Potential data breach detected
+[ERROR] 2025-07-15 12:26:54 Database connection failed
+[WARNING] 2025-07-15 12:12:24 Access denied to restricted folder
+[ERROR] 2025-07-15 22:50:16 Database connection failed
+[CRITICAL] 2025-07-15 22:36:28 Unauthorized access attempt
+[ERROR] 2025-07-15 12:49:51 Database connection failed
+[ERROR] 2025-07-15 10:29:09 User account locked after 5 failures
+[INFO] 2025-07-15 03:43:49 User logged out
+[CRITICAL] 2025-07-15 19:47:47 Malware activity detected
+[WARNING] 2025-07-15 04:57:25 Suspicious file upload detected
+[CRITICAL] 2025-07-15 08:15:18 Unauthorized access attempt
+[INFO] 2025-07-15 23:27:40 User logged out
+[WARNING] 2025-07-15 02:48:27 Access denied to restricted folder
+[CRITICAL] 2025-07-15 06:33:57 Potential data breach detected
+[CRITICAL] 2025-07-15 18:30:15 Critical system failure
+[CRITICAL] 2025-07-15 12:27:33 Potential data breach detected
+[ERROR] 2025-07-15 03:00:54 User account locked after 5 failures
+[INFO] 2025-07-15 17:01:00 File accessed successfully
+[ERROR] 2025-07-15 15:39:29 User account locked after 5 failures
+[WARNING] 2025-07-15 19:07:33 User failed login attempt
+[ERROR] 2025-07-15 17:11:21 Application crashed unexpectedly
+[INFO] 2025-07-15 23:45:51 File accessed successfully
+[INFO] 2025-07-15 05:52:39 File accessed successfully
+[CRITICAL] 2025-07-15 08:05:52 Critical system failure
+[CRITICAL] 2025-07-15 06:47:39 Potential data breach detected
+[CRITICAL] 2025-07-15 19:49:38 Critical system failure
+[ERROR] 2025-07-15 08:56:22 Service unavailable
+[INFO] 2025-07-15 02:31:56 User login successful
+[ERROR] 2025-07-15 22:22:23 Application crashed unexpectedly
+[CRITICAL] 2025-07-15 19:42:28 Unauthorized access attempt
+[WARNING] 2025-07-15 16:02:12 Suspicious file upload detected
+[CRITICAL] 2025-07-15 22:17:47 Potential data breach detected
+[ERROR] 2025-07-15 08:59:07 User account locked after 5 failures
+[CRITICAL] 2025-07-15 23:26:40 Malware activity detected
+[WARNING] 2025-07-15 23:23:40 User failed login attempt
+[INFO] 2025-07-15 12:10:50 User logged out
+[ERROR] 2025-07-15 16:37:06 Database connection failed
+[ERROR] 2025-07-15 03:31:42 Application crashed unexpectedly
+[CRITICAL] 2025-07-15 06:52:56 Unauthorized access attempt
+[CRITICAL] 2025-07-15 12:50:31 Unauthorized access attempt
+[ERROR] 2025-07-15 12:13:47 User account locked after 5 failures
+[ERROR] 2025-07-15 15:21:46 User account locked after 5 failures
+[INFO] 2025-07-15 06:42:06 Email sent successfully
+[CRITICAL] 2025-07-15 04:30:08 Critical system failure
+[INFO] 2025-07-15 09:19:00 Email sent successfully
+[INFO] 2025-07-15 21:45:07 Password changed
+[INFO] 2025-07-15 06:54:50 Password changed
+[CRITICAL] 2025-07-15 06:38:30 Malware activity detected
+[ERROR] 2025-07-15 15:11:34 Database connection failed
+[INFO] 2025-07-15 09:45:27 File accessed successfully
+[CRITICAL] 2025-07-15 20:53:34 Malware activity detected
+[CRITICAL] 2025-07-15 18:51:46 Unauthorized access attempt
+[WARNING] 2025-07-15 03:33:57 User failed login attempt
+[ERROR] 2025-07-15 08:37:08 Database connection failed
+[ERROR] 2025-07-15 15:52:06 Service unavailable
+[WARNING] 2025-07-15 14:59:11 Multiple failed login attempts
+[ERROR] 2025-07-15 23:07:35 Database connection failed
+[WARNING] 2025-07-15 06:03:14 Multiple failed login attempts
+[CRITICAL] 2025-07-15 13:58:42 Potential data breach detected
+[ERROR] 2025-07-15 03:50:43 Database connection failed
+[INFO] 2025-07-15 11:38:03 User login successful
+[INFO] 2025-07-15 15:58:50 Password changed
+[INFO] 2025-07-15 04:31:52 Email sent successfully
+[CRITICAL] 2025-07-15 23:04:53 Potential data breach detected
+[ERROR] 2025-07-15 13:01:23 Application crashed unexpectedly
+[WARNING] 2025-07-15 11:46:24 User failed login attempt
+[WARNING] 2025-07-15 00:31:15 Access denied to restricted folder
+[CRITICAL] 2025-07-15 04:14:27 Critical system failure
+[ERROR] 2025-07-15 22:29:59 Service unavailable
+[CRITICAL] 2025-07-15 00:46:38 Malware activity detected
+[WARNING] 2025-07-15 10:23:07 User failed login attempt
+[CRITICAL] 2025-07-15 06:33:52 Malware activity detected
+[ERROR] 2025-07-15 02:03:59 Application crashed unexpectedly
+[ERROR] 2025-07-15 17:36:42 Database connection failed
+[INFO] 2025-07-15 15:47:37 File accessed successfully
+[WARNING] 2025-07-15 19:07:03 Access denied to restricted folder
+[CRITICAL] 2025-07-15 11:41:03 Malware activity detected
+[INFO] 2025-07-15 02:18:59 File accessed successfully
+[CRITICAL] 2025-07-15 09:49:56 Malware activity detected
+[INFO] 2025-07-15 11:53:10 File accessed successfully
+[INFO] 2025-07-15 06:16:49 Password changed
+[CRITICAL] 2025-07-15 15:09:49 Critical system failure
+[INFO] 2025-07-15 02:12:09 File accessed successfully
+[INFO] 2025-07-15 09:04:13 Email sent successfully
+[CRITICAL] 2025-07-15 16:26:05 Malware activity detected
+[ERROR] 2025-07-15 06:33:28 Application crashed unexpectedly
+[WARNING] 2025-07-15 23:17:48 User failed login attempt
+[WARNING] 2025-07-15 00:06:36 Multiple failed login attempts
+[WARNING] 2025-07-15 23:45:15 Access denied to restricted folder
+[INFO] 2025-07-15 14:13:51 Email sent successfully
+[ERROR] 2025-07-15 04:27:29 Application crashed unexpectedly
+[ERROR] 2025-07-15 12:10:49 User account locked after 5 failures
+[WARNING] 2025-07-15 11:07:27 Access denied to restricted folder
+[WARNING] 2025-07-15 11:42:11 Access denied to restricted folder
+[ERROR] 2025-07-15 10:59:28 Database connection failed
+[ERROR] 2025-07-15 04:19:14 User account locked after 5 failures
+[INFO] 2025-07-15 01:39:28 Password changed
+[WARNING] 2025-07-15 05:01:42 Access denied to restricted folder
+[ERROR] 2025-07-15 09:09:25 Database connection failed
+[ERROR] 2025-07-15 05:09:32 Application crashed unexpectedly
+[ERROR] 2025-07-15 02:58:23 Database connection failed
+[INFO] 2025-07-15 13:17:48 File accessed successfully
+[WARNING] 2025-07-15 10:01:41 Access denied to restricted folder
+[CRITICAL] 2025-07-15 18:59:43 Critical system failure
+[INFO] 2025-07-15 00:15:41 File accessed successfully
+[ERROR] 2025-07-15 03:12:18 Service unavailable
+[WARNING] 2025-07-15 06:36:35 Suspicious file upload detected
+[CRITICAL] 2025-07-15 16:06:17 Malware activity detected
+[ERROR] 2025-07-15 17:36:40 Service unavailable
+[CRITICAL] 2025-07-15 00:15:46 Unauthorized access attempt
+[WARNING] 2025-07-15 11:19:12 User failed login attempt
+[WARNING] 2025-07-15 07:50:12 User failed login attempt
+[ERROR] 2025-07-15 07:58:35 Database connection failed
+[INFO] 2025-07-15 00:00:56 User login successful
+[WARNING] 2025-07-15 03:38:23 User failed login attempt
+[WARNING] 2025-07-15 07:21:03 Multiple failed login attempts
+[CRITICAL] 2025-07-15 16:19:57 Potential data breach detected
+[ERROR] 2025-07-15 21:45:05 User account locked after 5 failures
+[WARNING] 2025-07-15 03:47:45 Suspicious file upload detected
+[ERROR] 2025-07-15 13:21:56 Application crashed unexpectedly
+[CRITICAL] 2025-07-15 23:37:26 Potential data breach detected
+[WARNING] 2025-07-15 00:56:58 User failed login attempt
+[INFO] 2025-07-15 12:04:52 User logged out
+[WARNING] 2025-07-15 06:12:38 User failed login attempt
+[WARNING] 2025-07-15 20:53:24 Multiple failed login attempts
+[INFO] 2025-07-15 12:25:11 Password changed
+[ERROR] 2025-07-15 22:47:33 Service unavailable
+[ERROR] 2025-07-15 06:03:07 Database connection failed
+[ERROR] 2025-07-15 20:36:36 Database connection failed
+[ERROR] 2025-07-15 15:23:23 Service unavailable
+[WARNING] 2025-07-15 01:28:53 User failed login attempt
+[ERROR] 2025-07-15 01:05:58 Service unavailable
+[WARNING] 2025-07-15 20:55:07 Multiple failed login attempts
+[CRITICAL] 2025-07-15 09:55:37 Potential data breach detected
+[CRITICAL] 2025-07-15 22:39:48 Critical system failure
+[INFO] 2025-07-15 04:18:21 Password changed
+[ERROR] 2025-07-15 06:53:19 User account locked after 5 failures
+[CRITICAL] 2025-07-15 22:54:45 Unauthorized access attempt
+[ERROR] 2025-07-15 22:01:40 Service unavailable
+[WARNING] 2025-07-15 01:37:36 Multiple failed login attempts
+[CRITICAL] 2025-07-15 15:51:18 Critical system failure
+[CRITICAL] 2025-07-15 03:15:52 Unauthorized access attempt
+[INFO] 2025-07-15 06:59:45 User logged out
+[WARNING] 2025-07-15 06:57:01 Multiple failed login attempts
+[WARNING] 2025-07-15 20:24:49 Multiple failed login attempts
+[WARNING] 2025-07-15 23:36:17 Suspicious file upload detected
+[CRITICAL] 2025-07-15 16:35:33 Critical system failure
+[ERROR] 2025-07-15 14:40:56 Service unavailable
+[CRITICAL] 2025-07-15 14:22:20 Potential data breach detected
+[CRITICAL] 2025-07-15 17:34:28 Critical system failure
+[INFO] 2025-07-15 10:01:14 Email sent successfully
+[WARNING] 2025-07-15 04:42:11 Multiple failed login attempts
+[ERROR] 2025-07-15 14:40:51 User account locked after 5 failures
+[WARNING] 2025-07-15 03:23:34 Multiple failed login attempts
+[WARNING] 2025-07-15 10:46:52 User failed login attempt
+[WARNING] 2025-07-15 22:07:42 Access denied to restricted folder
+[WARNING] 2025-07-15 17:17:24 User failed login attempt
+[CRITICAL] 2025-07-15 04:58:50 Critical system failure
+[CRITICAL] 2025-07-15 23:10:19 Malware activity detected
+[WARNING] 2025-07-15 14:02:26 Suspicious file upload detected
+[INFO] 2025-07-15 15:33:55 User logged out
+[INFO] 2025-07-15 06:06:40 Password changed
+[ERROR] 2025-07-15 09:02:47 Application crashed unexpectedly
+[WARNING] 2025-07-15 00:48:44 Access denied to restricted folder
+[ERROR] 2025-07-15 05:18:17 User account locked after 5 failures
+[WARNING] 2025-07-15 20:16:41 Access denied to restricted folder
+[CRITICAL] 2025-07-15 13:07:46 Critical system failure
+[CRITICAL] 2025-07-15 10:37:28 Critical system failure
+[ERROR] 2025-07-15 08:14:10 Database connection failed
+[INFO] 2025-07-15 09:47:56 File accessed successfully
+[INFO] 2025-07-15 09:35:23 Password changed
+[ERROR] 2025-07-15 15:54:59 Service unavailable
+[INFO] 2025-07-15 05:30:55 Email sent successfully
+[CRITICAL] 2025-07-15 20:32:16 Critical system failure
+[ERROR] 2025-07-15 10:40:42 Application crashed unexpectedly
+[ERROR] 2025-07-15 02:42:29 Service unavailable
+[ERROR] 2025-07-15 15:35:02 User account locked after 5 failures
+[ERROR] 2025-07-15 09:38:22 Database connection failed
+[WARNING] 2025-07-15 19:47:55 Suspicious file upload detected
+[WARNING] 2025-07-15 23:42:41 User failed login attempt
+[WARNING] 2025-07-15 00:14:47 Suspicious file upload detected
+[ERROR] 2025-07-15 07:40:12 Service unavailable
+[CRITICAL] 2025-07-15 04:37:19 Critical system failure
+[CRITICAL] 2025-07-15 19:54:17 Malware activity detected
+[CRITICAL] 2025-07-15 22:15:31 Unauthorized access attempt
+[INFO] 2025-07-15 12:59:49 Email sent successfully
+[CRITICAL] 2025-07-15 11:54:34 Unauthorized access attempt
+[CRITICAL] 2025-07-15 13:55:43 Unauthorized access attempt
+[WARNING] 2025-07-15 12:29:26 Multiple failed login attempts
+[CRITICAL] 2025-07-15 00:53:16 Potential data breach detected
+[ERROR] 2025-07-15 13:15:57 Application crashed unexpectedly
+[INFO] 2025-07-15 14:47:11 User logged out
+[WARNING] 2025-07-15 04:54:14 Suspicious file upload detected
+[ERROR] 2025-07-15 17:11:00 Database connection failed
+[WARNING] 2025-07-15 16:08:23 User failed login attempt
+[INFO] 2025-07-15 18:36:08 Email sent successfully
+[WARNING] 2025-07-15 11:24:05 Suspicious file upload detected
+[CRITICAL] 2025-07-15 12:03:18 Malware activity detected
+[CRITICAL] 2025-07-15 10:12:27 Critical system failure
+[INFO] 2025-07-15 03:29:22 User logged out
+[INFO] 2025-07-15 16:35:37 File accessed successfully
+[WARNING] 2025-07-15 17:51:46 User failed login attempt
+[WARNING] 2025-07-15 02:58:34 Access denied to restricted folder
+[ERROR] 2025-07-15 19:08:36 Application crashed unexpectedly
+[INFO] 2025-07-15 04:26:01 File accessed successfully
+[WARNING] 2025-07-15 21:54:28 Access denied to restricted folder
+[WARNING] 2025-07-15 17:14:59 Access denied to restricted folder
+[INFO] 2025-07-15 10:52:42 File accessed successfully
+[CRITICAL] 2025-07-15 19:58:28 Malware activity detected
+[ERROR] 2025-07-15 11:07:46 Database connection failed
+[ERROR] 2025-07-15 20:31:59 Service unavailable
+[CRITICAL] 2025-07-15 12:12:56 Potential data breach detected
+[WARNING] 2025-07-15 00:07:11 User failed login attempt
+[CRITICAL] 2025-07-15 08:46:08 Unauthorized access attempt
+[INFO] 2025-07-15 14:20:02 Password changed
+[INFO] 2025-07-15 01:24:20 Email sent successfully
+[ERROR] 2025-07-15 19:25:52 Service unavailable
+[CRITICAL] 2025-07-15 19:03:42 Potential data breach detected
+[CRITICAL] 2025-07-15 17:25:24 Potential data breach detected
+[WARNING] 2025-07-15 01:34:41 Suspicious file upload detected
+[WARNING] 2025-07-15 16:16:43 Suspicious file upload detected
+[CRITICAL] 2025-07-15 01:04:38 Potential data breach detected
+[ERROR] 2025-07-15 06:46:30 Service unavailable
+[ERROR] 2025-07-15 18:02:36 Application crashed unexpectedly
+[CRITICAL] 2025-07-15 18:21:21 Malware activity detected
+[CRITICAL] 2025-07-15 20:37:00 Critical system failure
+[WARNING] 2025-07-15 12:16:21 Access denied to restricted folder
+[INFO] 2025-07-15 12:29:00 File accessed successfully
+[ERROR] 2025-07-15 22:07:03 Service unavailable
+[ERROR] 2025-07-15 11:14:02 Database connection failed
+[ERROR] 2025-07-15 12:20:59 User account locked after 5 failures
+[INFO] 2025-07-15 09:25:24 User logged out
+[INFO] 2025-07-15 02:43:37 File accessed successfully
+[CRITICAL] 2025-07-15 00:52:10 Malware activity detected
+[WARNING] 2025-07-15 04:15:33 Suspicious file upload detected
+[CRITICAL] 2025-07-15 18:55:46 Critical system failure
+[ERROR] 2025-07-15 15:41:24 Service unavailable
+[INFO] 2025-07-15 03:39:10 Email sent successfully
+[INFO] 2025-07-15 01:28:15 Password changed
+[INFO] 2025-07-15 17:35:19 Password changed
+[CRITICAL] 2025-07-15 02:44:54 Critical system failure
+[WARNING] 2025-07-15 19:18:02 User failed login attempt
+[ERROR] 2025-07-15 22:48:24 Database connection failed
+[INFO] 2025-07-15 22:09:37 Password changed
+[ERROR] 2025-07-15 16:59:18 User account locked after 5 failures
+[ERROR] 2025-07-15 22:40:48 Application crashed unexpectedly
+[CRITICAL] 2025-07-15 19:52:04 Unauthorized access attempt
+[ERROR] 2025-07-15 19:09:45 User account locked after 5 failures
+[WARNING] 2025-07-15 20:28:33 User failed login attempt
+[ERROR] 2025-07-15 16:51:33 Database connection failed
+[INFO] 2025-07-15 19:36:35 File accessed successfully
+[ERROR] 2025-07-15 22:52:18 Service unavailable
+[CRITICAL] 2025-07-15 07:19:39 Potential data breach detected
+[CRITICAL] 2025-07-15 18:41:05 Critical system failure
+[CRITICAL] 2025-07-15 07:38:38 Critical system failure
+[INFO] 2025-07-15 13:44:32 Email sent successfully
+[INFO] 2025-07-15 23:44:54 User logged out
+[ERROR] 2025-07-15 23:11:57 User account locked after 5 failures
+[CRITICAL] 2025-07-15 00:04:44 Unauthorized access attempt
+[ERROR] 2025-07-15 17:48:32 Application crashed unexpectedly
+[INFO] 2025-07-15 23:09:36 Password changed
+[WARNING] 2025-07-15 17:10:23 Suspicious file upload detected
+[ERROR] 2025-07-15 09:43:27 User account locked after 5 failures
+[CRITICAL] 2025-07-15 10:43:38 Unauthorized access attempt
+[INFO] 2025-07-15 20:42:08 Password changed
+[WARNING] 2025-07-15 02:49:27 Access denied to restricted folder
+[CRITICAL] 2025-07-15 20:29:14 Malware activity detected
+[ERROR] 2025-07-15 03:49:26 Service unavailable
+[ERROR] 2025-07-15 16:30:26 Service unavailable
+[INFO] 2025-07-15 15:55:18 Password changed
+[WARNING] 2025-07-15 20:48:03 Suspicious file upload detected
+[CRITICAL] 2025-07-15 05:35:39 Critical system failure
+[ERROR] 2025-07-15 21:37:18 Service unavailable
+[INFO] 2025-07-15 14:24:29 File accessed successfully
+[ERROR] 2025-07-15 08:58:47 Database connection failed
+[WARNING] 2025-07-15 15:45:56 Suspicious file upload detected
+[WARNING] 2025-07-15 03:32:37 Access denied to restricted folder
+[CRITICAL] 2025-07-15 23:59:40 Potential data breach detected
+[INFO] 2025-07-15 12:52:04 File accessed successfully
+[ERROR] 2025-07-15 18:50:18 Service unavailable
+[CRITICAL] 2025-07-15 20:54:09 Unauthorized access attempt
+[WARNING] 2025-07-15 07:25:24 User failed login attempt
+[INFO] 2025-07-15 18:06:34 User login successful
+[CRITICAL] 2025-07-15 08:11:51 Potential data breach detected
+[WARNING] 2025-07-15 19:41:56 Suspicious file upload detected
+[WARNING] 2025-07-15 14:42:59 Suspicious file upload detected
+[INFO] 2025-07-15 00:16:36 Password changed
+[INFO] 2025-07-15 06:08:53 User login successful
+[WARNING] 2025-07-15 06:07:14 User failed login attempt
+[ERROR] 2025-07-15 01:33:41 Service unavailable
+[WARNING] 2025-07-15 22:45:42 Multiple failed login attempts
+[INFO] 2025-07-15 13:21:12 User login successful
+[INFO] 2025-07-15 00:15:34 File accessed successfully
+[ERROR] 2025-07-15 00:12:35 Service unavailable
+[ERROR] 2025-07-15 06:01:24 Database connection failed
+[WARNING] 2025-07-15 07:16:52 Multiple failed login attempts
+[ERROR] 2025-07-15 16:44:01 Application crashed unexpectedly
+[ERROR] 2025-07-15 09:24:05 Service unavailable
+[WARNING] 2025-07-15 21:59:34 User failed login attempt
+[WARNING] 2025-07-15 10:24:23 Suspicious file upload detected
+[INFO] 2025-07-15 06:05:26 File accessed successfully
+[ERROR] 2025-07-15 19:58:05 Service unavailable
+[WARNING] 2025-07-15 04:11:52 User failed login attempt
+[WARNING] 2025-07-15 15:20:05 Multiple failed login attempts
+[CRITICAL] 2025-07-15 14:32:00 Critical system failure
+[WARNING] 2025-07-15 08:27:23 Suspicious file upload detected
+[CRITICAL] 2025-07-15 04:24:04 Malware activity detected
+[WARNING] 2025-07-15 18:50:51 Multiple failed login attempts
+[INFO] 2025-07-15 01:24:40 Email sent successfully
+[INFO] 2025-07-15 17:31:08 File accessed successfully
+[WARNING] 2025-07-15 15:15:44 Access denied to restricted folder
+[CRITICAL] 2025-07-15 12:51:34 Malware activity detected
+[WARNING] 2025-07-15 02:38:24 Access denied to restricted folder
+[WARNING] 2025-07-15 08:44:32 Suspicious file upload detected
+[CRITICAL] 2025-07-15 14:13:37 Malware activity detected
+[WARNING] 2025-07-15 11:41:17 Access denied to restricted folder
+[WARNING] 2025-07-15 04:01:22 User failed login attempt
+[WARNING] 2025-07-15 09:37:02 User failed login attempt
+[ERROR] 2025-07-15 18:10:12 Database connection failed
+[CRITICAL] 2025-07-15 15:40:33 Unauthorized access attempt
+[ERROR] 2025-07-15 01:29:14 Database connection failed
+[ERROR] 2025-07-15 15:00:45 User account locked after 5 failures
+[CRITICAL] 2025-07-15 10:41:36 Unauthorized access attempt
+[CRITICAL] 2025-07-15 01:43:37 Malware activity detected
+[CRITICAL] 2025-07-15 02:32:48 Unauthorized access attempt
+[CRITICAL] 2025-07-15 09:30:41 Critical system failure
+[WARNING] 2025-07-15 14:06:20 User failed login attempt
+[CRITICAL] 2025-07-15 09:30:00 Unauthorized access attempt
+[CRITICAL] 2025-07-15 16:45:00 Potential data breach detected
+[INFO] 2025-07-15 16:58:02 User logged out
+[CRITICAL] 2025-07-15 05:26:54 Unauthorized access attempt
+[ERROR] 2025-07-15 00:21:30 Database connection failed
+[INFO] 2025-07-15 19:31:06 User login successful
+[WARNING] 2025-07-15 11:21:37 Suspicious file upload detected
+[INFO] 2025-07-15 06:53:17 File accessed successfully
+[WARNING] 2025-07-15 01:13:30 User failed login attempt
+[WARNING] 2025-07-15 12:11:13 Suspicious file upload detected
+[CRITICAL] 2025-07-15 22:46:55 Critical system failure
+[ERROR] 2025-07-15 03:41:58 User account locked after 5 failures
+[INFO] 2025-07-15 02:10:19 User login successful
+[WARNING] 2025-07-15 00:42:39 Multiple failed login attempts
+[ERROR] 2025-07-15 17:53:05 Application crashed unexpectedly
+[INFO] 2025-07-15 18:03:26 Password changed
+[CRITICAL] 2025-07-15 18:14:29 Potential data breach detected
+[ERROR] 2025-07-15 13:55:09 Database connection failed
+[WARNING] 2025-07-15 10:40:12 User failed login attempt
+[CRITICAL] 2025-07-15 03:59:06 Unauthorized access attempt
+[CRITICAL] 2025-07-15 20:17:35 Critical system failure
+[ERROR] 2025-07-15 20:05:46 Database connection failed
+[ERROR] 2025-07-15 12:43:42 Application crashed unexpectedly
+[WARNING] 2025-07-15 09:37:10 Access denied to restricted folder
+[CRITICAL] 2025-07-15 16:33:59 Malware activity detected
+[WARNING] 2025-07-15 09:15:18 Multiple failed login attempts
+[ERROR] 2025-07-15 02:18:34 Application crashed unexpectedly
+[ERROR] 2025-07-15 12:55:52 Application crashed unexpectedly
+[WARNING] 2025-07-15 10:43:45 User failed login attempt
+[INFO] 2025-07-15 14:31:25 File accessed successfully
+[CRITICAL] 2025-07-15 04:49:35 Unauthorized access attempt
+[WARNING] 2025-07-15 15:22:39 User failed login attempt
+[INFO] 2025-07-15 08:43:33 Password changed
+[WARNING] 2025-07-15 23:51:40 Suspicious file upload detected
+[ERROR] 2025-07-15 14:26:26 Application crashed unexpectedly
+[CRITICAL] 2025-07-15 21:37:30 Critical system failure
+[INFO] 2025-07-15 23:12:08 User logged out
+[INFO] 2025-07-15 09:46:51 User login successful
+[ERROR] 2025-07-15 01:22:50 User account locked after 5 failures
+[ERROR] 2025-07-15 04:19:58 User account locked after 5 failures
+[INFO] 2025-07-15 03:51:54 Email sent successfully
+[CRITICAL] 2025-07-15 01:03:03 Critical system failure
+[WARNING] 2025-07-15 15:17:52 User failed login attempt
+[WARNING] 2025-07-15 13:10:10 Access denied to restricted folder
+[CRITICAL] 2025-07-15 19:30:14 Unauthorized access attempt
+[INFO] 2025-07-15 20:10:07 Password changed
+[ERROR] 2025-07-15 06:58:52 Application crashed unexpectedly
+[CRITICAL] 2025-07-15 08:41:33 Potential data breach detected
+[CRITICAL] 2025-07-15 16:49:16 Malware activity detected
+[ERROR] 2025-07-15 01:29:18 Database connection failed
+[ERROR] 2025-07-15 20:42:01 Service unavailable
+[WARNING] 2025-07-15 20:39:54 Access denied to restricted folder
+[ERROR] 2025-07-15 23:16:50 Application crashed unexpectedly
+[CRITICAL] 2025-07-15 08:05:02 Potential data breach detected
+[INFO] 2025-07-15 15:36:06 User login successful
+[CRITICAL] 2025-07-15 13:08:15 Potential data breach detected
+[WARNING] 2025-07-15 11:23:57 User failed login attempt
+[ERROR] 2025-07-15 04:44:06 Service unavailable
+[INFO] 2025-07-15 22:24:22 File accessed successfully
+[WARNING] 2025-07-15 10:52:42 User failed login attempt
+[INFO] 2025-07-15 18:16:27 User logged out
+[WARNING] 2025-07-15 14:02:58 Multiple failed login attempts
+[ERROR] 2025-07-15 16:01:38 Service unavailable
+[WARNING] 2025-07-15 07:10:14 Multiple failed login attempts
+[CRITICAL] 2025-07-15 21:45:23 Potential data breach detected
+[ERROR] 2025-07-15 22:22:07 User account locked after 5 failures
+[WARNING] 2025-07-15 23:39:35 Multiple failed login attempts
+[ERROR] 2025-07-15 13:48:58 Application crashed unexpectedly
+[INFO] 2025-07-15 05:32:48 User logged out
+[INFO] 2025-07-15 16:04:27 File accessed successfully
+[ERROR] 2025-07-15 07:27:49 User account locked after 5 failures
+[ERROR] 2025-07-15 06:33:36 User account locked after 5 failures
+[ERROR] 2025-07-15 11:31:25 Application crashed unexpectedly
+[WARNING] 2025-07-15 05:39:38 Access denied to restricted folder
+[CRITICAL] 2025-07-15 21:00:10 Malware activity detected
+[CRITICAL] 2025-07-15 18:40:19 Potential data breach detected
+[INFO] 2025-07-15 05:08:56 User login successful

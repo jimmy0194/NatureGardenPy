@@ -42,32 +42,6 @@ These tools align with frameworks such as **ISO 27001**, **NIST Cybersecurity Fr
 Compares current security settings (password policies, MFA, lockout thresholds) against a defined policy (from JSON).  
 Outputs whether each rule is **Compliant** or **Non-Compliant**.
 
-#### **Run Command:**
----
-python policy_checker.py
-
-password_length_minimum:
-  Expected: 12
-  Actual:   10
-  Status:   Non-Compliant
-
-Permissions Audit
-File: permissions_audit.py
-Description:
-Audits actual user roles and permissions against approved policy definitions (from JSON).
-Reports missing or excessive permissions per role.
-
-Run Command:
-bash
-python permissions_audit.py
-Sample Output:
-Role: user
-  Expected: {'read', 'write'}
-  Actual:   {'read', 'write', 'delete'}
-  Extra Permissions: {'delete'}
-  Status: Non-Compliant
-
----
 ## Why This Supports Governance, Risk, and Compliance (GRC) in Cybersecurity
 ---
 These tools directly align with the principles of data security governance and compliance because they:
@@ -87,7 +61,9 @@ Permissions Audit	Enforces least-privilege and role-based access controls (ISO 2
 * ISO 27001 (Annex A)	A.5-A.18: Policy, Access, Audit, Incidents
 * NIST CSF	Identify, Protect, Detect, Respond
 * COBIT 5	DSS05, DSS06: Risk Management, Security Monitoring
-## conclusion
+
+
+## Conclusion
 * These scripts demonstrate how automation strengthens Information Security Governance at NatureGarden by:
 
 * Improving visibility into security controls

@@ -1,7 +1,17 @@
-
 {
     "password_length_minimum": 12,
     "password_complexity_required": true,
     "account_lockout_threshold": 5,
-    "multi_factor_authentication": true
+    "multi_factor_authentication": true,
+    "password_expiry_days": 90,
+    "inactive_account_lock_days": 30,
+    "session_timeout_minutes": 15,
+    "encryption_required_for_data_at_rest": true,
+    "encryption_required_for_data_in_transit": true,
+    "admin_access_requires_mfa": true,
+    "allowed_failed_logins_before_lockout": 5,
+    "security_question_required": false,
+    "audit_logs_enabled": true,
+    "remote_access_restricted": true,
+    "usb_device_usage_restricted": true
 }
