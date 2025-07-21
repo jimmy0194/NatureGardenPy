@@ -1,0 +1,7 @@
+Sample Logs
+
+[INFO] 2025-07-15 10:12:43 User login successful
+[WARNING] 2025-07-15 10:20:55 User failed login attempt
+[ERROR] 2025-07-15 10:21:05 User account locked after 5 failures
+[INFO] 2025-07-15 10:45:22 Password changed
+[CRITICAL] 2025-07-15 11:01:11 Unauthorized access attempt

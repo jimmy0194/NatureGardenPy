@@ -1,0 +1,7 @@
+
+{
+    "password_length_minimum": 12,
+    "password_complexity_required": true,
+    "account_lockout_threshold": 5,
+    "multi_factor_authentication": true
+}
